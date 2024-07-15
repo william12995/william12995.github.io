@@ -1,0 +1,65 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Professional</span> Experience",
+            "description": "A look into my work experience and career journey."
+        },
+
+        "zh": {
+            "title": "<span class='text-primary'>工作</span> 經驗",
+            "description": "我的過往工作經驗。"
+        }
+    },
+
+    "items": [
+        {
+            "id": "experience_item_1",
+            "place": "@link{places.uxStudio}",
+            "period": ["2021/06", "2021/08"],
+            "locales": {
+                "en": {
+                    "title": "UX Designer",
+                    "description": "Contributed to designing intuitive and user-friendly web application interfaces, creating engaging and seamless user experiences. Collaborated closely with cross-functional teams and stakeholders to ensure designs aligned with business goals and user needs."
+                },
+                "zh": {
+                    "title": "政大新生訓練網站設計",
+                    "description": "幫助<a href=\"https://freshmen.nccu.edu.tw/home.jsp\" target=\"_blank\">政大新生訓練</a> 團隊管理形象網站(現已改版)，主要內容為前端排版，文案圖片上架。"
+                }
+            }
+        },
+
+        {
+            "id": "experience_item_2",
+            "place": "@link{places.adobe}",
+            "period": ["2021/03", "2022/12"],
+            "locales": {
+                "en": {
+                    "title": "Senior UI/UX Designer",
+                    "description": "Led design projects, conducted comprehensive user research, and utilized data-driven insights to enhance user experiences. Managed design teams, fostering creativity and innovation while implementing design best practices to deliver successful outcomes for various digital products."
+                },
+                
+                "zh": {
+                    "title": "架設系友會專屬網站",
+                    "description": "幫助<a href=\"https://nccuarabalumni.com/\" target=\"_blank\">政大阿文系系友會</a>從無到有利用Wordpress架設專屬網站，可以讓會員註冊並繳交年費，並回顧年度活動。"
+                }
+            }
+        },
+
+        {
+            "id": "experience_item_3",
+            "place": "@link{places.apple}",
+            "period": ["2022/07", "2023/08"],
+            "locales": {
+                "en": {
+                    "title": "Lead UX Designer",
+                    "description": "Drove UX initiatives by overseeing a team of designers, crafting design strategies, and spearheading cross-functional collaborations with product managers, engineers, and executives. Focused on creating user-centric designs that aligned with business objectives and resulted in enhanced user satisfaction."
+                },
+                
+                "zh": {
+                    "title": "政大AI中心研究助理",
+                    "description": "擔任政大AI中心研究助理，期間參與的產學合作案使用PHP+MySQL+APACHE，幫助廠商開發<a href=\"https://www.athome.tw/mobile/tw/main/\" target=\"_blank\">居家照護網站</a>，並維護其功能的運行。"
+                }
+            }
+        }
+    ]
+}

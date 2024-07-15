@@ -1,0 +1,20 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Contact</span> Me",
+            "description": "Please don't hesitate to get in touch with me whenever you feel the need!",
+            "subtitle": "Or...",
+            "subtitleDescription": "If you prefer, you can reach out to me through the following options:"
+        },
+        "zh": {
+            "title": "<span class='text-primary'>聯繫</span>我",
+            "description": "如果您有任何需求，請隨時與我聯繫！",
+            "subtitle": "或者...",
+            "subtitleDescription": "如果您願意，您可以通過以下方式與我獲得聯繫:"
+        }
+    },
+
+    "items": [
+        "@link{profile.contact.email}"
+    ]
+}

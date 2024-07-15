@@ -1,0 +1,129 @@
+{
+    "locales": {
+        "en": {
+            "title": "Career <span class='text-primary'>Achievements</span>",
+            "description": "My journey as a UX designer has been marked by unwavering dedication to learning and skill enhancement, along with enthusiastic participation in design events. As a result, I have collected a list of notable awards and certifications:"
+        },
+
+        "zh": {
+            "title": "生活中的<span class='text-primary'>成就</span>",
+            "description": "過去大學四年的一些比賽經歷和成就，彙總於下："
+        }
+    },
+
+    "subcategories": [
+        {
+            "id": "awards",
+            "faIcon": "fa-solid fa-trophy",
+            "locales": {
+                "en": {"title": "Awards", "buttonLabel": "More Info"},
+                "zh": {"title": "獎項", "buttonLabel": "了解更多"}
+            }
+        },
+
+        {
+            "id": "certifications",
+            "faIcon": "fa-solid fa-award",
+            "locales": {
+                "en": {"title": "Certifications", "buttonLabel": "View Certification"},
+                "zh": {"title": "比賽經歷", "buttonLabel": "查看"}
+            }
+        }
+    ],
+
+    "items": {
+        "awards": [
+            {
+                "id": "graduation_project",
+                "place": "@link{places.harvard}",
+                "date": "2023/05",
+                "href": "images/portfolio/award-1.jpg",
+                "locales": {
+                    "en": {
+                        "title": "Best Graduation Project",
+                        "description": "Outstanding work on graduation project; recognized for innovation and impact."
+                    },
+
+                    "zh": {
+                        "title": "阿拉伯文系友會成績優異獎學金",
+                        "description": "在學業成績上的優異表現受到認可。"
+                    }
+                }
+            },
+
+            {
+                "id": "alumni_hackaton",
+                "place": "@link{places.harvard}",
+                "date": "2024/03",
+                "href": "images/portfolio/award-2.jpg",
+                "locales": {
+                    "en": {
+                        "title": "2nd Place – Alumni UX Hackathon",
+                        "description": "Secured 2nd place in Harvard's Alumni UX hackathon; demonstrated creative problem-solving."
+                    },
+
+                    "zh": {
+                        "title": "中阿文經獎學金",
+                        "description": "在學業成績上的優異表現受到認可。"
+                    }
+                }
+            }
+        ],
+
+        "certifications": [
+            {
+                "id": "google_cert",
+                "place": "@link{places.harvard}",
+                "date": "2022/12",
+                "href": "images/portfolio/contest-2.jpg",
+                "locales": {
+                    "en": {
+                        "title": "Google UX Design Certification",
+                        "description": "Certified by Google in UX design; demonstrated expertise in user-centered design."
+                    },
+
+                    "zh": {
+                        "title": "INTEL DevCup",
+                        "description": "以「多類別癌症之非侵入式AI偵測系統」為主題，參與2022 INTEL舉辦之AI DevCup競賽，從一百多組隊伍中成功進入決賽。"
+                    }
+                }
+            },
+
+            {
+                "id": "ui_nanodegree",
+                "place": "@link{places.harvard}",
+                "date": "2022/10",
+                "href": "images/portfolio/contest-1.jpg",
+                "locales": {
+                    "en": {
+                        "title": "UI/UX Nanodegree",
+                        "description": "Completed comprehensive UI/UX nanodegree on Udemy; acquired practical skills."
+                    },
+
+                    "zh": {
+                        "title": "中技社 AI競賽",
+                        "description": "以「自監督式學習模型偵測大腸息肉結構資訊」為主題，參與2022 中技社舉辦之AI創意競賽，成功獲得入選獎。"
+                    }
+                }
+            },
+
+            {
+                "id": "material_cert",
+                "place": "@link{places.harvard}",
+                "date": "2023/02",
+                "href": "images/portfolio/contest-3.jpg",
+                "locales": {
+                    "en": {
+                        "title": "Material Design Certification",
+                        "description": "Earned Material Design certification; demonstrated proficiency in modern design principles."
+                    },
+
+                    "zh": {
+                        "title": "保誠人壽商業創意競賽",
+                        "description": "以「樂來樂愛你」為名的心理諮商服務為提案，參與2023 保誠人壽舉辦之商業創意競賽，最終成功進入決賽。"
+                    }
+                }
+            }
+        ]
+    }
+}

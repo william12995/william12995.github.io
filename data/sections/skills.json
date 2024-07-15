@@ -1,0 +1,320 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Skill</span> Set",
+            "description": "Exploring the diverse range of skills I've acquired and developed:"
+        },
+        "zh": {
+            "title": "<span class='text-primary'>技能</span>一覽",
+            "description": "我所掌握和學習的多樣技能:"
+        }
+    },
+
+    "subcategories": [
+        
+
+        {
+            "id": "programming",
+            "type": "grid",
+            "progress": "number",
+            "faIcon": "fa fa-code",
+            "locales": {
+                "en": {"title": "Programming"},
+                "zh": {"title": "寫程式"}
+            }
+        },
+
+        {
+            "id": "languages",
+            "type": "list",
+            "progress": {"0": "beginner", "20": "rookie", "40": "intermediate", "60": "advanced", "80": "fluent", "100": "native"},
+            "faIcon": "fa fa-language",
+            "locales": {
+                "en": {"title": "Languages"},
+                "es": {"title": "Idiomas"},
+                "fr": {"title": "Langues"},
+                "zh": {"title": "語言"}
+            }
+        },
+
+        {
+            "id": "extra",
+            "type": "grid",
+            "progress": null,
+            "faIcon": "fa fa-marker",
+            "locales": {
+                "en": {"title": "Bonus Skills"},
+                "zh": {"title": "附加技能"}
+            }
+        }
+    ],
+
+    "items": {
+        "abilities": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-mobile-alt",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Responsive Layouts",
+                        "description": "Proficient in crafting adaptable layouts for diverse devices, ensuring optimal user experience."
+                    },
+                    "es": {
+                        "title": "Diseños Responsivos",
+                        "description": "Destacada habilidad en crear diseños adaptables para diversos dispositivos, garantizando una experiencia de usuario óptima ."
+                    },
+                    "fr": {
+                        "title": "Mises en Page Réactives",
+                        "description": "Compétent pour créer des mises en page adaptables pour divers appareils, assurant une expérience utilisateur optimale."
+                    },
+                    "zh": {
+                        "title": "响应式布局",
+                        "description": "擅长为不同设备创建适应性布局，通过无缝调整设计元素和内容以适配不同屏幕尺寸，确保最佳用户体验。"
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-paint-roller",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Design Principles",
+                        "description": "Masterful at creating captivating designs, blending color theory, typography, layout, and balance for effective messaging."
+                    },
+                    "es": {
+                        "title": "Principios de Diseño",
+                        "description": "Experto en diseño: fusiono teoría del color, tipografía, layout y equilibrio para cautivar y transmitir mensajes."
+                    },
+                    "fr": {
+                        "title": "Principes de Conception",
+                        "description": "Habile en design: utilise principes couleur, typo, composition et équilibre pour captiver et transmettre efficacement."
+                    },
+                    "zh": {
+                        "title": "设计原则",
+                        "description": "运用色彩理论、排版、版面构图和平衡等基本原则，巧妙打造视觉吸引的设计，以吸引观众并有效传达信息。"
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-vector-square",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Wireframing",
+                        "description": "Skilled in creating detailed wireframes to visualize and plan user interfaces, effectively laying the foundation for intuitive design."
+                    },
+                    "es": {
+                        "title": "Creación de Wireframes",
+                        "description": "Habilidad para crear wireframes detallados para visualizar y planificar interfaces de usuario."
+                    },
+                    "fr": {
+                        "title": "Création de Wireframes",
+                        "description": "Compétent dans la création de wireframes détaillés pour visualiser et planifier les interfaces utilisateur."
+                    },
+                    "zh": {
+                        "title": "线框图设计",
+                        "description": "熟练制作详细的线框图，以便可视化和规划用户界面。"
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-check-double",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Usability Testing",
+                        "description": "Enhancing user experiences through comprehensive usability testing."
+                    },
+                    "es": {
+                        "title": "Pruebas de Usabilidad",
+                        "description": "Experiencia en mejorar experiencias de usuario mediante pruebas exhaustivas de usabilidad."
+                    },
+                    "fr": {
+                        "title": "Tests d'Utilisabilité",
+                        "description": "Expérimenté dans l'amélioration des expériences utilisateur grâce à des tests d'utilisabilité."
+                    },
+                    "zh": {
+                        "title": "可用性测试",
+                        "description": "通过全面的可用性测试提升用户体验。"
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-expand-arrows-alt",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Interaction Design",
+                        "description": "Proficient in creating intuitive and seamless interactions for user-friendly experiences, harmonizing aesthetics and usability."
+                    },
+                    "es": {
+                        "title": "Diseño de Interacción",
+                        "description": "Competente en la creación de interacciones intuitivas y fluidas para experiencias amigables para el usuario."
+                    },
+                    "fr": {
+                        "title": "Design d'Interaction",
+                        "description": "Compétent dans la création d'interactions intuitives et fluides pour des expériences conviviales."
+                    },
+                    "zh": {
+                        "title": "交互设计",
+                        "description": "熟练创建直观流畅的交互，以实现用户友好的体验。"
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-laptop-code",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Prototyping",
+                        "description": "Skilled in translating concepts into interactive prototypes for testing and refinement."
+                    },
+                    "es": {
+                        "title": "Prototipado",
+                        "description": "Habilidad para traducir conceptos en prototipos interactivos para pruebas y perfeccionamiento."
+                    },
+                    "fr": {
+                        "title": "Prototypage",
+                        "description": "Compétent dans la traduction de concepts en prototypes interactifs pour des tests et affinages."
+                    },
+                    "zh": {
+                        "title": "原型设计",
+                        "description": "熟练将概念转化为交互式原型，以进行测试和完善。"
+                    }
+                }
+            }
+        ],
+
+        "programming": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-html5",
+                "value": 95,
+                "locales": {
+                    "en": {"title": "HTML 5", "description": "Experience Time: 3 years"},
+                    "zh": {"title": "HTML 5", "description": "經驗時長：3年"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-css3-alt",
+                "value": 90,
+                "locales": {
+                    "en": {"title": "CSS 3", "description": "Experience Time: 3 years"},
+                    "zh": {"title": "CSS 3", "description": "經驗時長：3年"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-php",
+                "value": 85,
+                "locales": {
+                    "en": {"title": "PHP (Laravel)", "description": "Experience Time: 2 years"},
+                    "zh": {"title": "PHP (Laravel)", "description": "經驗時長：2年"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-js-square",
+                "value": 65,
+                "locales": {
+                    "en": {"title": "JavaScript", "description": "Experience Time: 1 years"},
+                    "zh": {"title": "JavaScript", "description": "經驗時長：1年"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-vuejs",
+                "value": 50,
+                "locales": {
+                    "en": {"title": "Vue 3", "description": "Experience Time: <1 years"},
+                    "zh": {"title": "Vue 3", "description": "經驗時長：<1年"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-node",
+                "value": 50,
+                "locales": {
+                    "en": {"title": "node.js", "description": "Experience time: <1 year"},
+                    "zh": {"title": "node.js", "description": "經驗時長：<1年"}
+                }
+            }
+        ],
+
+        "languages": [
+            {
+                "imageIconUrl": "images/flags/en.png",
+                "faIcon": null,
+                "value": 60,
+                "locales": {
+                    "en": {"title": "English", "description": "Native speaker with excellent communication and writing skills."},
+                    "zh": {"title": "英文", "description": "具備進階的書寫與溝通能力"}
+                }
+            },
+
+            
+
+            {
+                "imageIconUrl": "images/flags/ja.png",
+                "faIcon": null,
+                "value": 80,
+                "locales": {
+                    "en": {"title": "Japanese", "description": "Intermediate proficiency in Vietnamese language; can hold conversations and understand written text."},
+                    "zh": {"title": "日語", "description": "具有流暢的日語能力；能進行商業對話並了解書信內容。"}
+                }
+            },
+
+            {
+                "imageIconUrl": "images/flags/sa.png",
+                "faIcon": null,
+                "value": 60,
+                "locales": {
+                    "en": {"title": "Arabic", "description": "Basic understanding of Brazilian Portuguese; learning and improving."},
+                    "zh": {"title": "阿拉伯語", "description": "對阿拉伯語有進階的閱讀能力，能夠進行基礎的對話。"}
+                }
+            }
+        ],
+
+        "extra": [
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "User Interface (UI) Design", "description": "Able to design intuitive and visually appealing user interfaces for seamless user interactions."},
+                    "zh": {"title": "Wordpress網站架設", "description": "能夠從零開始架設Wordpress形象網站，包括網域租借及網址導向等等，皆一手包辦。"}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "Front-End Development", "description": "Able to code in VueJS, React JS, Swift, AngularJS and TypeScript."},
+                    "zh": {"title": "日文助理/翻譯", "description": "學生時期接案當過日文翻譯和日文導遊，也當過日文家教和課程助理。"}
+                }
+            }
+            
+            
+            
+        ]
+
+    }
+}

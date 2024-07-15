@@ -1,0 +1,97 @@
+{
+    "locales": {
+        "en": {
+            "title": "My <span class='text-primary'>Portfolio</span>",
+            "description": "Explore a selection of my recent projects and creative works."
+        },
+        
+        "zh": {
+            "title": "我的<span class='text-primary'>作品集</span>",
+            "description": "瀏覽我最近的一些專案和作品。"
+        }
+    },
+
+    "subcategories": [
+        {
+            "id": "productivity",
+            "locales": {
+                "en": {"title": "Productivity"},
+                "zh": {"title": "網站"}
+            }
+        },
+        {
+            "id": "utilities",
+            "locales": {
+                "en": {"title": "Utilities"},
+                "es": {"title": "Utilidades"},
+                "fr": {"title": "Utilitaires"},
+                "zh": {"title": "工具"}
+            }
+        }
+    ],
+
+    "items": {
+        "productivity": [
+            {
+                "id": "brainpulse",
+                "title": "居家照護網",
+                "logoUrl": "images/portfolio/project-logo-3.png",
+                "links": [
+                    {"faIcon": "fa fa-window-restore", "href": "https://www.athome.tw/mobile/tw/main/", "id": "click to open website"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "<b>BrainPulse</b> is your ultimate productivity app, helping you manage tasks, organize your schedule, and boost your focus. With its sleek and modern interface, BrainPulse offers features like task lists, reminders, goal tracking, and customizable productivity metrics. Whether you're a student, professional, or anyone looking to optimize their time and efficiency, BrainPulse is your go-to app for achieving more while maintaining work-life balance.",
+                        "tags": ["app", "productivity", "tasks", "focus"]
+                    },
+                    
+                    "zh": {
+                        "description": "使用<b>Laravel+Apache+MySQL+PHP</b>幫助有能力的照護員or物理治療師在此平台上找到工作機會，同時也讓有照護需求的家庭快速篩選適合的人員。",
+                        "tags": ["PHP","MySQL"]
+                    }
+                }
+            },
+
+            {
+                "id": "stackers",
+                "title": "系友會網站",
+                "logoUrl": "images/portfolio/project-logo-6.png",
+                "links": [
+                    {"faIcon": "fa fa-window-restore", "href": "https://nccuarabalumni.com/", "id": "click to open website"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "<b>Stackers</b> is your all-in-one organization and note-taking app, designed to streamline your digital life. With its seamless integration of task management, note organization, and cloud storage, Stackers helps you stay organized and productive. Create to-do lists, jot down ideas, and sync your notes across devices effortlessly. Whether you're a student, professional, or anyone seeking a clutter-free digital workspace, Stackers is here to elevate your organizational game.",
+                        "tags": ["app", "organization", "notes", "productivity"]
+                    },
+                    "zh": {
+                        "description": "從0開始幫助<b>阿拉伯文系友會</b> 架設專屬會網，從挑樣板、網域租借到轉址等等，皆為一人完成。此外，後續也陸續新增功能，像是會員註冊及繳費。",
+                        "tags": ["Wordpress"]
+                    }
+                }
+            }
+        ],
+
+        "utilities": [
+            {
+                "id": "smartcash",
+                "title": "政大交流版LINE BOT",
+                "logoUrl": "images/portfolio/project-logo-9.png",
+                "links": [
+                    {"faIcon": "fa fa-image", "href": "images/portfolio/project-linebot-1.png", "id": "sample 1"},
+                    {"faIcon": "fa fa-image", "href": "images/portfolio/project-linebot-2.png", "id": "sample 2"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "<b>SmartCash</b> is your smart companion for personal finance, empowering you to take control of your money effortlessly. With its user-friendly interface, SmartCash provides real-time tracking of your expenses and income, enabling you to identify spending patterns and make informed financial decisions. Stay on top of your budget as SmartCash offers personalized recommendations to save money and achieve your financial goals without compromising your lifestyle.",
+                        "tags": ["app", "finance", "money", "budget"]
+                    },
+                    "zh": {
+                        "description": "利用Selenium在<b>政大交流版</b>進行爬蟲再將結果傳送到Heroku伺服器，並將貼文分類成「遺失物」、「表單抽獎」及「剩食」三大類。讓使用者透過LINEBOT一鍵獲取想要的貼文取代臉書原本的貼文搜尋功能。",
+                        "tags": ["LINE BOT"]
+                    }
+                }
+            }
+        ]
+    }
+}

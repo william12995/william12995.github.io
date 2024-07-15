@@ -1,0 +1,73 @@
+{
+    "name": "林智瀚(LIN CHIH HAN)",
+    "profilePictureUrl": "images/pictures/avatar.jpg",
+
+    "locales": {
+        "en": {
+            "credits": null,
+            "role": "Full Stack Developer"
+        },
+        "zh": {
+            "credits": null,
+            "role": "全端工程師"
+        }
+    },
+
+    "contact": {
+        "address": {
+            "id": "address",
+            "value": "123 Main Street, Cupertino, CA 01234",
+            "valueShort": "Taipei, Taiwan",
+            "faIcon": "fa-solid fa-city",
+            "href": null
+        },
+
+        "email": {
+            "id": "email",
+            "value": "rino881209@gmail.com",
+            "valueShort": "rino881209@gmail.com",
+            "faIcon": "fa-solid fa-envelope",
+            "href": "rino881209@gmail.com"
+        },
+
+        "facebook": {
+            "id": "facebook",
+            "value": "Jonas Einstein",
+            "valueShort": "J. Einstein",
+            "faIcon": "fa-brands fa-facebook",
+            "href": "https://www.facebook.com/profile.php?id=100004033440035"
+        },
+
+        "github": {
+            "id": "github",
+            "value": "@jonas.einstein.official",
+            "valueShort": "@jonas.einstein.official",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/william12995"
+        },
+
+        "instagram": {
+            "id": "instagram",
+            "value": "@jonas.einstein.official",
+            "valueShort": "@jonas.einstein.official",
+            "faIcon": "fa-brands fa-instagram",
+            "href": "https://www.instagram.com/william12995.infor/"
+        },
+
+        "linkedin": {
+            "id": "linkedin",
+            "value": "@jonas.einstein.official",
+            "valueShort": "@jonas.einstein.official",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": null
+        },
+
+        "phone": {
+            "id": "phone",
+            "value": "+1 (123) 456-7890",
+            "valueShort": "(123) 456-7890",
+            "faIcon": "fa-solid fa-phone",
+            "href": null
+        }
+    }
+}

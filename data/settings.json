@@ -1,0 +1,20 @@
+{
+    "supportedLanguages": [
+        {
+            "name": "English",
+            "id": "en",
+            "flagUrl": "images/flags/en.png",
+            "default": true
+        },
+
+        {
+            "name": "繁體中文",
+            "id": "zh",
+            "flagUrl": "images/flags/zh.png"
+        }
+    ],
+
+    "preloaderEnabled": false,
+    "contactFormEnabled": true,
+    "sidebarShrinkingEnabled": true
+}

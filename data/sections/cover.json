@@ -1,0 +1,29 @@
+{
+    "locales": {
+        "en": {
+            "welcome": "Welcome to my <span class='text-primary'>Resume!</span>",
+            "welcomeShort": "Welcome!",
+            "bio": "With 8 years as a UX designer, I excel in user-centric interfaces. My passion for empathetic design drives me to create delightful and innovative digital experiences. Let's collaborate and craft something extraordinary together."
+        },
+
+        "zh": {
+            "welcome": "您好！我是<span class='text-primary'>林智瀚</span>！",
+            "welcomeShort": "您好!",
+            "bio": "個性認真，富有責任心，喜好挑戰自我。<br> 熱衷於學習語言，也熱衷於學習各種新知識，期許自己成為跨領域的人才。"
+        }
+    },
+
+    "items": {
+        "socialCircles": [
+            "@link{profile.contact.instagram}",
+            "@link{profile.contact.facebook}",
+            "@link{profile.contact.github}"
+        ],
+
+        "contactListItems": [
+            "@link{profile.contact.address}",
+            "@link{profile.contact.email}",
+            "@link{profile.contact.phone}"
+        ]
+    }
+}
