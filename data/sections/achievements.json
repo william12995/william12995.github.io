@@ -2,7 +2,7 @@
     "locales": {
         "en": {
             "title": "Career <span class='text-primary'>Achievements</span>",
-            "description": "My journey as a UX designer has been marked by unwavering dedication to learning and skill enhancement, along with enthusiastic participation in design events. As a result, I have collected a list of notable awards and certifications:"
+            "description": "The following is a summary of some competitions and achievements from my past four years in university:"
         },
 
         "zh": {
@@ -25,7 +25,7 @@
             "id": "certifications",
             "faIcon": "fa-solid fa-award",
             "locales": {
-                "en": {"title": "Certifications", "buttonLabel": "View Certification"},
+                "en": {"title": "Competition Experience", "buttonLabel": "View"},
                 "zh": {"title": "比賽經歷", "buttonLabel": "查看"}
             }
         }
@@ -40,8 +40,8 @@
                 "href": "images/portfolio/award-1.jpg",
                 "locales": {
                     "en": {
-                        "title": "Best Graduation Project",
-                        "description": "Outstanding work on graduation project; recognized for innovation and impact."
+                        "title": "Scholarship for Outstanding Achievement, Alumni Association of the Department of Arabic",
+                        "description": "Recognized for outstanding academic performance."
                     },
 
                     "zh": {
@@ -58,8 +58,8 @@
                 "href": "images/portfolio/award-2.jpg",
                 "locales": {
                     "en": {
-                        "title": "2nd Place – Alumni UX Hackathon",
-                        "description": "Secured 2nd place in Harvard's Alumni UX hackathon; demonstrated creative problem-solving."
+                        "title": "Arabic Language Scholarship, Arab Cultural and Economic Association",
+                        "description": "Recognized for outstanding academic performance."
                     },
 
                     "zh": {
@@ -78,8 +78,8 @@
                 "href": "images/portfolio/contest-2.jpg",
                 "locales": {
                     "en": {
-                        "title": "Google UX Design Certification",
-                        "description": "Certified by Google in UX design; demonstrated expertise in user-centered design."
+                        "title": "INTEL DevCup",
+                        "description": "Participated in the 2022 Intel AI DevCup competition with the theme \"Non-Invasive AI Detection System for Multiple Types of Cancer,\" successfully reaching the finals among over one hundred teams."
                     },
 
                     "zh": {
@@ -96,8 +96,8 @@
                 "href": "images/portfolio/contest-1.jpg",
                 "locales": {
                     "en": {
-                        "title": "UI/UX Nanodegree",
-                        "description": "Completed comprehensive UI/UX nanodegree on Udemy; acquired practical skills."
+                        "title": "Zhongji Society AI Competition",
+                        "description": "Participated in the 2022 AI Innovation Competition organized by the Zhongji Society with the theme \"Self-Supervised Learning Model for Detecting Colorectal Polyp Structural Information,\" and successfully received an Honorable Mention award."
                     },
 
                     "zh": {
@@ -114,8 +114,8 @@
                 "href": "images/portfolio/contest-3.jpg",
                 "locales": {
                     "en": {
-                        "title": "Material Design Certification",
-                        "description": "Earned Material Design certification; demonstrated proficiency in modern design principles."
+                        "title": "Prudential Life Insurance Business Innovation Competition",
+                        "description": "Submitted a proposal for a psychological counseling service named \"Love You More and More,\" participating in the 2023 Prudential Life Insurance Business Innovation Competition, and successfully reached the finals."
                     },
 
                     "zh": {

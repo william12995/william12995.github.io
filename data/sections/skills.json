@@ -262,9 +262,9 @@
             {
                 "imageIconUrl": "images/flags/en.png",
                 "faIcon": null,
-                "value": 60,
+                "value": 80,
                 "locales": {
-                    "en": {"title": "English", "description": "Native speaker with excellent communication and writing skills."},
+                    "en": {"title": "English", "description": "Excellent communication and writing skills."},
                     "zh": {"title": "英文", "description": "具備進階的書寫與溝通能力"}
                 }
             },
@@ -276,7 +276,7 @@
                 "faIcon": null,
                 "value": 80,
                 "locales": {
-                    "en": {"title": "Japanese", "description": "Intermediate proficiency in Vietnamese language; can hold conversations and understand written text."},
+                    "en": {"title": "Japanese", "description": "Proficient in Japanese; capable of conducting business conversations and understanding written correspondence."},
                     "zh": {"title": "日語", "description": "具有流暢的日語能力；能進行商業對話並了解書信內容。"}
                 }
             },
@@ -286,7 +286,7 @@
                 "faIcon": null,
                 "value": 60,
                 "locales": {
-                    "en": {"title": "Arabic", "description": "Basic understanding of Brazilian Portuguese; learning and improving."},
+                    "en": {"title": "Arabic", "description": "Advanced reading ability in Arabic, with the capability to conduct basic conversations."},
                     "zh": {"title": "阿拉伯語", "description": "對阿拉伯語有進階的閱讀能力，能夠進行基礎的對話。"}
                 }
             }
@@ -298,7 +298,7 @@
                 "faIcon": null,
                 "value": null,
                 "locales": {
-                    "en": {"title": "User Interface (UI) Design", "description": "Able to design intuitive and visually appealing user interfaces for seamless user interactions."},
+                    "en": {"title": "User Interface (UI) Design", "description": "Able to set up a WordPress website from scratch, including domain registration and URL redirection, handling everything independently."},
                     "zh": {"title": "Wordpress網站架設", "description": "能夠從零開始架設Wordpress形象網站，包括網域租借及網址導向等等，皆一手包辦。"}
                 }
             },
@@ -307,7 +307,7 @@
                 "faIcon": null,
                 "value": null,
                 "locales": {
-                    "en": {"title": "Front-End Development", "description": "Able to code in VueJS, React JS, Swift, AngularJS and TypeScript."},
+                    "en": {"title": "Front-End Development", "description": "During my student years, I worked as a Japanese translator and tour guide, as well as a Japanese tutor and teaching assistant."},
                     "zh": {"title": "日文助理/翻譯", "description": "學生時期接案當過日文翻譯和日文導遊，也當過日文家教和課程助理。"}
                 }
             }
