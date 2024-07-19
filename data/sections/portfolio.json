@@ -15,7 +15,7 @@
         {
             "id": "productivity",
             "locales": {
-                "en": {"title": "Productivity"},
+                "en": {"title": "Website"},
                 "zh": {"title": "網站"}
             }
         },
@@ -23,8 +23,6 @@
             "id": "utilities",
             "locales": {
                 "en": {"title": "Utilities"},
-                "es": {"title": "Utilidades"},
-                "fr": {"title": "Utilitaires"},
                 "zh": {"title": "工具"}
             }
         }
@@ -41,8 +39,8 @@
                 ],
                 "locales": {
                     "en": {
-                        "description": "<b>BrainPulse</b> is your ultimate productivity app, helping you manage tasks, organize your schedule, and boost your focus. With its sleek and modern interface, BrainPulse offers features like task lists, reminders, goal tracking, and customizable productivity metrics. Whether you're a student, professional, or anyone looking to optimize their time and efficiency, BrainPulse is your go-to app for achieving more while maintaining work-life balance.",
-                        "tags": ["app", "productivity", "tasks", "focus"]
+                        "description": "Used <b>Laravel+Apache+MySQL+PHP</b> to help qualified caregivers or physical therapists find job opportunities on this platform, while also allowing families with care needs to quickly filter suitable personnel.",
+                        "tags": ["PHP","MySQL"]
                     },
                     
                     "zh": {
@@ -61,8 +59,8 @@
                 ],
                 "locales": {
                     "en": {
-                        "description": "<b>Stackers</b> is your all-in-one organization and note-taking app, designed to streamline your digital life. With its seamless integration of task management, note organization, and cloud storage, Stackers helps you stay organized and productive. Create to-do lists, jot down ideas, and sync your notes across devices effortlessly. Whether you're a student, professional, or anyone seeking a clutter-free digital workspace, Stackers is here to elevate your organizational game.",
-                        "tags": ["app", "organization", "notes", "productivity"]
+                        "description": "Helped the <b>Arabic Alumni Association</b> set up a dedicated website from scratch, handling everything from choosing the template, renting the domain, to redirecting, all by myself. Additionally, I have continuously added new features, such as member registration and payment.",
+                        "tags": ["Wordpress"]
                     },
                     "zh": {
                         "description": "從0開始幫助<b>阿拉伯文系友會</b> 架設專屬會網，從挑樣板、網域租借到轉址等等，皆為一人完成。此外，後續也陸續新增功能，像是會員註冊及繳費。",
@@ -83,8 +81,8 @@
                 ],
                 "locales": {
                     "en": {
-                        "description": "<b>SmartCash</b> is your smart companion for personal finance, empowering you to take control of your money effortlessly. With its user-friendly interface, SmartCash provides real-time tracking of your expenses and income, enabling you to identify spending patterns and make informed financial decisions. Stay on top of your budget as SmartCash offers personalized recommendations to save money and achieve your financial goals without compromising your lifestyle.",
-                        "tags": ["app", "finance", "money", "budget"]
+                        "description": "Used Selenium to scrape data from the <b>NCCU Bulletin Board</b> and sent the results to a Heroku server. The posts were categorized into three main types: \"Lost and Found,\" \"Form Draws,\" and \"Surplus Food.\" Users can now retrieve the desired posts via LINEBOT, replacing the original Facebook post search functionality.",
+                        "tags": ["LINE BOT"]
                     },
                     "zh": {
                         "description": "利用Selenium在<b>政大交流版</b>進行爬蟲再將結果傳送到Heroku伺服器，並將貼文分類成「遺失物」、「表單抽獎」及「剩食」三大類。讓使用者透過LINEBOT一鍵獲取想要的貼文取代臉書原本的貼文搜尋功能。",
