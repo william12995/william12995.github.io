@@ -32,6 +32,24 @@
         "productivity": [
             {
                 "id": "brainpulse",
+                "title": "NovelRead AI Tutor",
+                "logoUrl": "images/portfolio/project-logo-3.png",
+                "links": [
+                    {"faIcon": "fa fa-window-restore", "href": "https://novelread-ai-tutor.vercel.app/", "id": "click to open website"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "<p>NovelRead AI Tutor is an innovative platform that leverages AI technology to enhance the reading experience of English novels.</p>",
+                        "tags": ["React","HTML","CSS","JavaScript","Gemini"]
+                    },
+                    "zh": {
+                        "description": "結合AI輔助閱讀英文小說，使用React框架，並搭配Gemini進行互動式學習。",
+                        "tags": ["React","HTML","CSS","JavaScript","Gemini"]
+                    }
+                }
+            },
+            {
+                "id": "brainpulse",
                 "title": "居家照護網",
                 "logoUrl": "images/portfolio/project-logo-3.png",
                 "links": [
@@ -53,7 +71,7 @@
             {
                 "id": "stackers",
                 "title": "系友會網站",
-                "logoUrl": "images/portfolio/project-logo-6.png",
+                "logoUrl": "images/portfolio/project-logo-3.png",
                 "links": [
                     {"faIcon": "fa fa-window-restore", "href": "https://nccuarabalumni.com/", "id": "click to open website"}
                 ],
@@ -87,6 +105,26 @@
                     "zh": {
                         "description": "利用Selenium在<b>政大交流版</b>進行爬蟲再將結果傳送到Heroku伺服器，並將貼文分類成「遺失物」、「表單抽獎」及「剩食」三大類。讓使用者透過LINEBOT一鍵獲取想要的貼文取代臉書原本的貼文搜尋功能。",
                         "tags": ["LINE BOT"]
+                    }
+                }
+            },
+            {
+                "id": "smartcash",
+                "title": "拉阿魯哇語音紀錄APP ",
+                "logoUrl": "images/portfolio/project-logo-9.png",
+                "links": [
+                    {"faIcon": "fa fa-file-pdf", "href": "public/images/portfolio/G1_Pitch.pdf", "id": "sample 1"},
+                    {"faIcon": "fa fa-video", "href": "public/images/portfolio/demo.mp4", "id": "sample 2"}
+
+                ],
+                "locales": {
+                    "en": {
+                        "description": "Developed a React Native app for the Rarawa language, enabling users to easily upload Rarawa language audio via their mobile phones. The app features voice recording, vocabulary practice, and integrates various AI models to generate engaging media, aiming to promote the learning and preservation of the Rarawa language.",
+                        "tags": ["React Native","Firebase","Gemini","OpenAI","Stable Diffusion"]
+                    },
+                    "zh": {
+                        "description": "利用React Native開發一款拉阿魯哇語音APP，讓使用者能夠透過手機輕鬆上傳拉阿魯哇語言。此APP提供了語音保存、詞彙練習等功能，並結合不同的AI模型生成趣味媒體，旨在促進拉阿魯哇語言的學習與傳承。",
+                        "tags": ["React Native","Firebase","Gemini","OpenAI","Stable Diffusion"]
                     }
                 }
             }

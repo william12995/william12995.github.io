@@ -1,72 +1,62 @@
 {
-    "locales": {
+  "locales": {
+    "en": {
+      "title": "<span class='text-primary'>Educational</span> Background",
+      "description": "Explore my academic journey, shaped by curiosity, dedication, and a deep passion for languages and research."
+    },
+    "zh": {
+      "title": "<span class='text-primary'>教育</span> 背景",
+      "description": "探索我由好奇心、投入與語言熱情所構築的學術旅程。"
+    }
+  },
+
+  "items": [
+    {
+      "id": "online_course_udacity",
+      "place": "@link{places.udacity}",
+      "period": ["2015/09", "2018/06"],
+      "locales": {
         "en": {
-            "title": "<span class='text-primary'>Educational</span> Background",
-            "description": "A glimpse into my academic trajectory and accomplishments."
+          "title": "Taipei Municipal Chien Kuo High School",
+          "description": "Developed a strong academic foundation at one of Taiwan’s most prestigious high schools. As an active member of the Information Club, I cultivated an early interest in computer science and programming—skills that would later complement my linguistic research."
         },
-
-
         "zh": {
-            "title": "<span class='text-primary'>教育</span> 背景",
-            "description": "一瞥我的學習歷程和成就。"
+          "title": "建國中學",
+          "description": "就學期間奠定學術基礎。活躍於資訊社，從中萌生對電腦科學與程式設計的興趣，這些技能後來成為語言學研究的重要助力。"
         }
+      }
     },
 
-    "items": [
-        {
-            "id": "online_course_udacity",
-            "place": "@link{places.udacity}",
-            "period": ["2015/09", "2018/06"],
-
-            "locales": {
-                "en": {
-                    "title": "Taipei Municipal Chien Kuo High School",
-                    "description": "During school, participated in the Information Club, which laid the foundation for programming skills."
-                },
-
-
-                "zh": {
-                    "title": "建國中學",
-                    "description": "在學期間參與資訊社，奠定了程式基礎。"
-                }
-            }
+    {
+      "id": "bachelor_harvard",
+      "place": "@link{places.harvard}",
+      "period": ["2020/09", "2024/06"],
+      "locales": {
+        "en": {
+          "title": "National ChengChi University",
+          "description": "Pursued a major in Arabic, with a double major in Japanese and a minor in Korean. Throughout my undergraduate years, I fully embraced academic challenges and made extensive use of the university’s resources to deepen my expertise in linguistics and language studies. I also actively engaged in fieldwork and research, including corpus collection and phonetic analysis. Outside the classroom, I maintained a healthy balance by participating in athletic competitions and team sports."
         },
-
-        {
-            "id": "bachelor_harvard",
-            "place": "@link{places.harvard}",
-            "period": ["2020/09", "2024/06"],
-
-            "locales": {
-                "en": {
-                    "title": "National ChengChi University",
-                    "description": "Majored in Arabic, with a double major in Japanese and a minor in Korean. Over the past four years, I have enjoyed making the most of school resources to enhance myself, whether in language learning or related research, and have approached all with dedication. Additionally, in my spare time, I have also participated in various sports events."
-                },
-
-
-                "zh": {
-                    "title": "政治大學",
-                    "description": "主修阿拉伯文，雙修日文，輔修韓文。四年來喜歡善用學校資源提升自我，不管是語言學習，或者課程相關研究，皆用心以對。此外在課後之餘，也參與不少運動賽事。"
-                }
-            }
-        },
-
-        {
-            "id": "masters_paris",
-            "place": "@link{places.paris}",
-            "period": ["2024/09", "2026/06"],
-
-            "locales": {
-                "en": {
-                    "title": "National Taiwan University",
-                    "description": "Major focus in Linguistics, with interests in phonetics, computational linguistics, and neurolinguistics. I hope to make a significant contribution to the research field through interdisciplinary integration."
-                },
-
-                "zh": {
-                    "title": "台灣大學",
-                    "description": "主攻語言學，對於語音學、計算語言學、腦神經語言學感興趣，期望能透過跨領域的結合，在研究領域做出一翻貢獻。"
-                }
-            }
+        "zh": {
+          "title": "政治大學",
+          "description": "主修阿拉伯文，雙修日文，輔修韓文。大學四年間積極面對學術挑戰，善用校內資源深入語言與語言學研究，亦實地參與語料蒐集與語音分析等田野工作。課餘時間也不忘均衡生活，持續參與各類運動賽事與團體活動。"
         }
-    ]
+      }
+    },
+
+    {
+      "id": "masters_paris",
+      "place": "@link{places.paris}",
+      "period": ["2024/09", "2026/06"],
+      "locales": {
+        "en": {
+          "title": "National Taiwan University",
+          "description": "Currently pursuing a master's degree in Linguistics, with a research focus on computational linguistics, phonetics, and neurolinguistics. My current work integrates AI technologies with linguistic theory, aiming to develop systems that reflect cognitive logic in language structure. I aspire to contribute to the future of language research through interdisciplinary innovation."
+        },
+        "zh": {
+          "title": "台灣大學",
+          "description": "攻讀語言學碩士，專注於計算語言學、語音學與腦神經語言學的交叉研究。目前致力於將AI技術與語言理論融合，建構更符合人類認知邏輯的知識系統，期望在語言研究的未來發展中貢獻創新力量。"
+        }
+      }
+    }
+  ]
 }

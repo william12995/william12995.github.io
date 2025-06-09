@@ -4,33 +4,41 @@
             "title": "Career <span class='text-primary'>Achievements</span>",
             "description": "The following is a summary of some competitions and achievements from my past four years in university:"
         },
-
         "zh": {
             "title": "生活中的<span class='text-primary'>成就</span>",
             "description": "過去大學四年的一些比賽經歷和成就，彙總於下："
         }
     },
-
     "subcategories": [
         {
             "id": "awards",
             "faIcon": "fa-solid fa-trophy",
             "locales": {
-                "en": {"title": "Awards", "buttonLabel": "More Info"},
-                "zh": {"title": "獎項", "buttonLabel": "了解更多"}
+                "en": {
+                    "title": "Awards",
+                    "buttonLabel": "More Info"
+                },
+                "zh": {
+                    "title": "獎項",
+                    "buttonLabel": "了解更多"
+                }
             }
         },
-
         {
             "id": "certifications",
             "faIcon": "fa-solid fa-award",
             "locales": {
-                "en": {"title": "Competition Experience", "buttonLabel": "View"},
-                "zh": {"title": "比賽經歷", "buttonLabel": "查看"}
+                "en": {
+                    "title": "Competition Experience",
+                    "buttonLabel": "View"
+                },
+                "zh": {
+                    "title": "比賽經歷",
+                    "buttonLabel": "查看"
+                }
             }
         }
     ],
-
     "items": {
         "awards": [
             {
@@ -43,14 +51,12 @@
                         "title": "Scholarship for Outstanding Achievement, Alumni Association of the Department of Arabic",
                         "description": "Recognized for outstanding academic performance."
                     },
-
                     "zh": {
                         "title": "阿拉伯文系友會成績優異獎學金",
                         "description": "在學業成績上的優異表現受到認可。"
                     }
                 }
             },
-
             {
                 "id": "alumni_hackaton",
                 "place": "@link{places.harvard}",
@@ -61,15 +67,29 @@
                         "title": "Arabic Language Scholarship, Arab Cultural and Economic Association",
                         "description": "Recognized for outstanding academic performance."
                     },
-
                     "zh": {
                         "title": "中阿文經獎學金",
                         "description": "在學業成績上的優異表現受到認可。"
                     }
                 }
+            },
+            {
+                "id": "oxford_conf",
+                "place": "@link{places.paris}",
+                "date": "2025/06",
+                "href": "",
+                "locales": {
+                    "en": {
+                        "title": "Presenter at the Oxford Postgraduate Conference",
+                        "description": "Presented original research on Arabic geminate consonants at the 2025 Oxford Postgraduate Conference in Linguistics, focusing on acoustic patterns and production challenges for Mandarin speakers."
+                    },
+                    "zh": {
+                        "title": "牛津研究生會議發表者",
+                        "description": "於2025年牛津語言學研究生會議發表阿拉伯語重音輔音之原創研究，探討其聲學特徵及華語母語者在發音上的挑戰。"
+                    }
+                }
             }
         ],
-
         "certifications": [
             {
                 "id": "google_cert",
@@ -81,14 +101,12 @@
                         "title": "INTEL DevCup",
                         "description": "Participated in the 2022 Intel AI DevCup competition with the theme \"Non-Invasive AI Detection System for Multiple Types of Cancer,\" successfully reaching the finals among over one hundred teams."
                     },
-
                     "zh": {
                         "title": "INTEL DevCup",
                         "description": "以「多類別癌症之非侵入式AI偵測系統」為主題，參與2022 INTEL舉辦之AI DevCup競賽，從一百多組隊伍中成功進入決賽。"
                     }
                 }
             },
-
             {
                 "id": "ui_nanodegree",
                 "place": "@link{places.harvard}",
@@ -99,14 +117,12 @@
                         "title": "Zhongji Society AI Competition",
                         "description": "Participated in the 2022 AI Innovation Competition organized by the Zhongji Society with the theme \"Self-Supervised Learning Model for Detecting Colorectal Polyp Structural Information,\" and successfully received an Honorable Mention award."
                     },
-
                     "zh": {
                         "title": "中技社 AI競賽",
                         "description": "以「自監督式學習模型偵測大腸息肉結構資訊」為主題，參與2022 中技社舉辦之AI創意競賽，成功獲得入選獎。"
                     }
                 }
             },
-
             {
                 "id": "material_cert",
                 "place": "@link{places.harvard}",
@@ -117,7 +133,6 @@
                         "title": "Prudential Life Insurance Business Innovation Competition",
                         "description": "Submitted a proposal for a psychological counseling service named \"Love You More and More,\" participating in the 2023 Prudential Life Insurance Business Innovation Competition, and successfully reached the finals."
                     },
-
                     "zh": {
                         "title": "保誠人壽商業創意競賽",
                         "description": "以「樂來樂愛你」為名的心理諮商服務為提案，參與2023 保誠人壽舉辦之商業創意競賽，最終成功進入決賽。"
