@@ -29,11 +29,11 @@
             "faIcon": "fa-solid fa-award",
             "locales": {
                 "en": {
-                    "title": "Competition Experience",
+                    "title": "Competition Experience & Certifications",
                     "buttonLabel": "View"
                 },
                 "zh": {
-                    "title": "比賽經歷",
+                    "title": "比賽或證照",
                     "buttonLabel": "查看"
                 }
             }
@@ -136,6 +136,22 @@
                     "zh": {
                         "title": "保誠人壽商業創意競賽",
                         "description": "以「樂來樂愛你」為名的心理諮商服務為提案，參與2023 保誠人壽舉辦之商業創意競賽，最終成功進入決賽。"
+                    }
+                }
+            },
+            {
+                "id": "nvidia_deep_learning_cert",
+                "place": "@link{places.paris}",
+                "date": "2025/04",
+                "href": "images/portfolio/My Learning _ NVIDIA (1).pdf",
+                "locales": {
+                    "en": {
+                        "title": "Fundamentals of Deep Learning Certificate – NVIDIA DLI",
+                        "description": "Awarded to CHIH-HAN LIN by NVIDIA Deep Learning Institute for successfully completing the 'Fundamentals of Deep Learning' course and demonstrating foundational deep learning skills."
+                    },
+                    "zh": {
+                        "title": "深度學習基礎課程證書（NVIDIA DLI）",
+                        "description": "由 NVIDIA 深度學習學院（DLI）頒發，林致涵完成《Fundamentals of Deep Learning》課程並展現深度學習的基礎能力。"
                     }
                 }
             }
