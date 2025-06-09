@@ -113,8 +113,8 @@
                 "title": "拉阿魯哇語音紀錄APP ",
                 "logoUrl": "images/portfolio/project-logo-9.png",
                 "links": [
-                    {"faIcon": "fa fa-file-pdf", "href": "public/images/portfolio/G1_Pitch.pdf", "id": "sample 1"},
-                    {"faIcon": "fa fa-video", "href": "public/images/portfolio/demo.mp4", "id": "sample 2"}
+                    {"faIcon": "fa fa-file-pdf", "href": "images/portfolio/G1_Pitch.pdf", "id": "sample 1"},
+                    {"faIcon": "fa fa-video", "href": "images/portfolio/demo.mp4", "id": "sample 2"}
 
                 ],
                 "locales": {
