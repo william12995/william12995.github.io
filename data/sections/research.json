@@ -1,0 +1,147 @@
+{
+  "locales": {
+    "en": {
+      "title": "Research <span class='text-primary'>Interests</span>",
+      "description": "My research focuses on computational linguistics, phonetics, and neurolinguistics, with particular emphasis on cross-linguistic acoustic patterns and AI applications in language processing."
+    },
+    "zh": {
+      "title": "研究 <span class='text-primary'>興趣</span>",
+      "description": "我的研究專注於計算語言學、語音學與神經語言學，特別著重於跨語言聲學模式與人工智慧在語言處理中的應用。"
+    }
+  },
+
+  "subcategories": [
+    {
+      "id": "current-research",
+      "faIcon": "fa-solid fa-microscope",
+      "locales": {
+        "en": {
+          "title": "Current Research",
+          "buttonLabel": "Learn More"
+        },
+        "zh": {
+          "title": "目前研究",
+          "buttonLabel": "了解更多"
+        }
+      }
+    },
+    {
+      "id": "research-interests",
+      "faIcon": "fa-solid fa-lightbulb",
+      "locales": {
+        "en": {
+          "title": "Research Interests",
+          "buttonLabel": "Explore"
+        },
+        "zh": {
+          "title": "研究領域",
+          "buttonLabel": "探索"
+        }
+      }
+    }
+  ],
+
+  "items": {
+    "current-research": [
+      {
+        "id": "arabic-geminate",
+        "place": "@link{places.ntu}",
+        "date": "2024/09 - Present",
+        "href": null,
+        "locales": {
+          "en": {
+            "title": "Arabic Geminate Consonants: Acoustic Analysis and Production Challenges",
+            "description": "Investigating the acoustic properties of Arabic geminate consonants and the production difficulties faced by Mandarin speakers. This research combines experimental phonetics with computational analysis to understand cross-linguistic transfer patterns."
+          },
+          "zh": {
+            "title": "阿拉伯語重音輔音：聲學分析與發音挑戰",
+            "description": "研究阿拉伯語重音輔音的聲學特性以及華語母語者面臨的發音困難。此研究結合實驗語音學與計算分析，理解跨語言遷移模式。"
+          }
+        }
+      },
+      {
+        "id": "ai-linguistics",
+        "place": "@link{places.ntu}",
+        "date": "2025/01 - Present",
+        "href": null,
+        "locales": {
+          "en": {
+            "title": "AI-Enhanced Linguistic Analysis Tools",
+            "description": "Developing machine learning models to assist in phonetic transcription and linguistic pattern recognition. Focus on creating tools that reflect cognitive logic in language structure analysis."
+          },
+          "zh": {
+            "title": "AI 增強語言學分析工具",
+            "description": "開發機器學習模型以協助語音轉錄和語言模式識別。專注於創造反映語言結構分析中認知邏輯的工具。"
+          }
+        }
+      }
+    ],
+
+    "research-interests": [
+      {
+        "id": "computational-linguistics",
+        "place": null,
+        "date": null,
+        "href": null,
+        "locales": {
+          "en": {
+            "title": "Computational Linguistics",
+            "description": "Natural language processing, machine learning applications in linguistics, automated phonetic analysis, and language technology development."
+          },
+          "zh": {
+            "title": "計算語言學",
+            "description": "自然語言處理、機器學習在語言學中的應用、自動化語音分析，以及語言技術開發。"
+          }
+        }
+      },
+      {
+        "id": "phonetics-phonology",
+        "place": null,
+        "date": null,
+        "href": null,
+        "locales": {
+          "en": {
+            "title": "Phonetics & Phonology",
+            "description": "Acoustic phonetics, cross-linguistic sound patterns, gemination phenomena, and articulatory challenges in second language acquisition."
+          },
+          "zh": {
+            "title": "語音學與音韻學",
+            "description": "聲學語音學、跨語言音韻模式、重音現象，以及第二語言習得中的發音挑戰。"
+          }
+        }
+      },
+      {
+        "id": "neurolinguistics",
+        "place": null,
+        "date": null,
+        "href": null,
+        "locales": {
+          "en": {
+            "title": "Neurolinguistics",
+            "description": "Brain mechanisms of language processing, cognitive approaches to linguistic analysis, and neural correlates of multilingual competence."
+          },
+          "zh": {
+            "title": "神經語言學",
+            "description": "語言處理的大腦機制、語言學分析的認知方法，以及多語能力的神經關聯。"
+          }
+        }
+      },
+      {
+        "id": "multilingualism",
+        "place": null,
+        "date": null,
+        "href": null,
+        "locales": {
+          "en": {
+            "title": "Multilingualism & Language Contact",
+            "description": "Cross-linguistic influence, code-switching phenomena, and the cognitive implications of multilingual language processing."
+          },
+          "zh": {
+            "title": "多語現象與語言接觸",
+            "description": "跨語言影響、語碼轉換現象，以及多語言處理的認知意涵。"
+          }
+        }
+      }
+    ]
+  }
+}

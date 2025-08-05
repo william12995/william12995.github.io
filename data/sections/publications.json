@@ -1,0 +1,46 @@
+{
+  "locales": {
+    "en": {
+      "title": "Publications & <span class='text-primary'>Presentations</span>",
+      "description": "Academic contributions including conference presentations, research papers, and ongoing publication projects in computational linguistics and phonetics."
+    },
+    "zh": {
+      "title": "發表 & <span class='text-primary'>學術貢獻</span>",
+      "description": "學術貢獻包括會議發表、研究論文，以及計算語言學和語音學領域的持續發表計畫。"
+    }
+  },
+
+  "items": [
+    {
+      "id": "oxford-conference-2025",
+      "place": "@link{places.oxford}",
+      "period": ["2025/06", "2025/06"],
+      "locales": {
+        "en": {
+          "title": "Oxford Postgraduate Conference in Linguistics",
+          "description": "Presented original research on 'Arabic Geminate Consonants: Acoustic Patterns and Production Challenges for Mandarin Speakers' at the 2025 Oxford Postgraduate Conference in Linguistics. The presentation focused on cross-linguistic phonetic analysis and implications for second language acquisition theory."
+        },
+        "zh": {
+          "title": "牛津語言學研究生會議",
+          "description": "於2025年牛津語言學研究生會議發表「阿拉伯語重音輔音：華語母語者的聲學模式與發音挑戰」原創研究。此發表專注於跨語言語音分析及其對第二語言習得理論的意涵。"
+        }
+      }
+    },
+    {
+      "id": "thesis-progress",
+      "place": "@link{places.ntu}",
+      "period": ["2024/09", "2026/06"],
+      "locales": {
+        "en": {
+          "title": "Master's Thesis (In Progress)",
+          "description": "No working title yet. The thesis will explore computational approaches to cross-linguistic phonetic analysis, focusing on Arabic gemination patterns. It is supervised by [Advisor Name] and expected to be completed by June 2026."
+        },
+        "zh": {
+          "title": "碩士論文（進行中）",
+          "description": "暫無題目"
+        }
+      }
+    }
+    
+  ]
+}

@@ -6,18 +6,18 @@
         },
 
         {
+            "id": "academic",
+            "faIcon": "fa-solid fa-graduation-cap"
+        },
+
+        {
+            "id": "projects",
+            "faIcon": "fa-solid fa-code"
+        },
+
+        {
             "id": "background",
-            "faIcon": "fa-solid fa-clock"
-        },
-
-        {
-            "id": "showcase",
-            "faIcon": "fa-solid fa-images"
-        },
-
-        {
-            "id": "more",
-            "faIcon": "fa-solid fa-plus"
+            "faIcon": "fa-solid fa-user-graduate"
         }
     ],
 
@@ -33,15 +33,31 @@
 
         {
             "id": "education",
-            "categoryId": "background",
+            "categoryId": "academic",
             "component": "TimelineSection",
             "jsonPath": "data/sections/education.json",
             "faIcon": "fa-solid fa-graduation-cap"
         },
 
         {
+            "id": "publications",
+            "categoryId": "academic",
+            "component": "TimelineSection",
+            "jsonPath": "data/sections/publications.json",
+            "faIcon": "fa-solid fa-file-alt"
+        },
+
+        {
+            "id": "portfolio",
+            "categoryId": "projects",
+            "component": "GallerySection",
+            "jsonPath": "data/sections/portfolio.json",
+            "faIcon": "fa-solid fa-folder-open"
+        },
+
+        {
             "id": "skills",
-            "categoryId": "showcase",
+            "categoryId": "background",
             "component": "InfoSection",
             "jsonPath": "data/sections/skills.json",
             "faIcon": "fa-solid fa-tools"
@@ -56,16 +72,8 @@
         },
 
         {
-            "id": "portfolio",
-            "categoryId": "showcase",
-            "component": "GallerySection",
-            "jsonPath": "data/sections/portfolio.json",
-            "faIcon": "fa-solid fa-folder-open"
-        },
-
-        {
             "id": "achievements",
-            "categoryId": "showcase",
+            "categoryId": "background",
             "component": "ThreadsSection",
             "jsonPath": "data/sections/achievements.json",
             "faIcon": "fa-solid fa-award"

@@ -72,5 +72,32 @@
         "locales": {
             "en": {"name": "UX Masters Studio"}
         }
+    },
+
+    "oxford": {
+        "logoUrl": "",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "en": {"name": "University of Oxford"},
+            "zh": {"name": "牛津大學"}
+        }
+    },
+
+    "collaboration": {
+        "logoUrl": "",
+        "faIcon": "fas fa-handshake",
+        "locales": {
+            "en": {"name": "Collaboration"},
+            "zh": {"name": "合作"}
+        }
+    },
+
+    "ntu": {
+        "logoUrl": "",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "en": {"name": "National Taiwan University"},
+            "zh": {"name": "國立臺灣大學"}
+        }
     }
 }

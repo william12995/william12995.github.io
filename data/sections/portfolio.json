@@ -33,7 +33,7 @@
             {
                 "id": "brainpulse",
                 "title": "NovelRead AI Tutor",
-                "logoUrl": "images/portfolio/project-logo-3.png",
+                "logoUrl": "images/portfolio/project-logo-1.png",
                 "links": [
                     {"faIcon": "fa fa-window-restore", "href": "https://novelread-ai-tutor.vercel.app/", "id": "click to open website"}
                 ],
@@ -49,9 +49,9 @@
                 }
             },
             {
-                "id": "brainpulse",
+                "id": "homecare-platform",
                 "title": "居家照護網",
-                "logoUrl": "images/portfolio/project-logo-3.png",
+                "logoUrl": "images/portfolio/project-logo-2.png",
                 "links": [
                     {"faIcon": "fa fa-window-restore", "href": "https://www.athome.tw/mobile/tw/main/", "id": "click to open website"}
                 ],
@@ -69,9 +69,9 @@
             },
 
             {
-                "id": "stackers",
+                "id": "alumni-website",
                 "title": "系友會網站",
-                "logoUrl": "images/portfolio/project-logo-3.png",
+                "logoUrl": "images/portfolio/project-logo-7.png",
                 "links": [
                     {"faIcon": "fa fa-window-restore", "href": "https://nccuarabalumni.com/", "id": "click to open website"}
                 ],
@@ -90,9 +90,30 @@
 
         "utilities": [
             {
-                "id": "smartcash",
+                "id": "iol-2025-app",
+                "title": "IOL 2025 語言學奧林匹亞APP",
+                "logoUrl": "images/portfolio/project-logo-4.png",
+                "links": [
+                    {"faIcon": "fa fa-apple", "href": "https://apps.apple.com/us/app/2025-iol/id6748054270", "id": "Download for iOS"},
+                    {"faIcon": "fa fa-android", "href": "https://play.google.com/store/apps/details?id=com.william12995.iol2025", "id": "Download for Android"},
+                    {"faIcon": "fa fa-globe", "href": "https://lopen.linguistics.ntu.edu.tw/iol2025/", "id": "Web Version (Chatbot)"}
+                 ],
+                "locales": {
+                    "en": {
+                        "description": "Comprehensive mobile application for the International Linguistics Olympiad 2025. Features interactive quiz games and cross-platform architecture built with React Native. Designed to help students prepare for the IOL competition through engaging practice exercises and linguistic puzzle solving.",
+                        "tags": ["React Native", "Computational Linguistics", "Educational Technology", "Linguistics Olympiad", "Cross-linguistic Analysis", "Problem Solving"]
+                    },
+                    "zh": {
+                        "description": "為2025年國際語言學奧林匹亞開發的綜合性手機應用程式。具備互動式問答遊戲，以及使用 React Native 構建的跨平台架構。旨在透過引人入勝的練習題和語言學謎題解答來幫助學生準備IOL競賽。",
+                        "tags": ["React Native", "計算語言學", "教育科技", "語言學奧林匹亞", "跨語言分析", "問題解決"]
+                    }
+                }
+            },
+
+            {
+                "id": "nccu-linebot",
                 "title": "政大交流版LINE BOT",
-                "logoUrl": "images/portfolio/project-logo-9.png",
+                "logoUrl": "images/portfolio/project-logo-5.png",
                 "links": [
                     {"faIcon": "fa fa-image", "href": "images/portfolio/project-linebot-1.png", "id": "sample 1"},
                     {"faIcon": "fa fa-image", "href": "images/portfolio/project-linebot-2.png", "id": "sample 2"}
@@ -109,9 +130,9 @@
                 }
             },
             {
-                "id": "smartcash",
-                "title": "拉阿魯哇語音紀錄APP ",
-                "logoUrl": "images/portfolio/project-logo-9.png",
+                "id": "sla-app",
+                "title": "拉阿魯哇語音紀錄APP",
+                "logoUrl": "images/portfolio/project-logo-6.png",
                 "links": [
                     {"faIcon": "fa fa-file-pdf", "href": "images/portfolio/G1_Pitch.pdf", "id": "sample 1"},
                     {"faIcon": "fa fa-video", "href": "images/portfolio/demo.mp4", "id": "sample 2"}

@@ -1,0 +1,156 @@
+{
+  "locales": {
+    "en": {
+      "title": "IOL 2025 <span class='text-primary'>Mobile App</span>",
+      "description": "A comprehensive mobile application designed for the International Linguistics Olympiad 2025, featuring interactive learning tools and competition resources."
+    },
+    "zh": {
+      "title": "IOL 2025 <span class='text-primary'>手機應用程式</span>",
+      "description": "為2025年國際語言學奧林匹亞設計的綜合性手機應用程式，具備互動學習工具和競賽資源。"
+    }
+  },
+
+  "subcategories": [
+    {
+      "id": "app-features",
+      "faIcon": "fa-solid fa-star",
+      "locales": {
+        "en": {
+          "title": "Key Features",
+          "buttonLabel": "Learn More"
+        },
+        "zh": {
+          "title": "主要功能",
+          "buttonLabel": "了解更多"
+        }
+      }
+    },
+    {
+      "id": "app-downloads",
+      "faIcon": "fa-solid fa-download",
+      "locales": {
+        "en": {
+          "title": "Download Links",
+          "buttonLabel": "Download"
+        },
+        "zh": {
+          "title": "下載連結",
+          "buttonLabel": "立即下載"
+        }
+      }
+    }
+  ],
+
+  "items": {
+    "app-features": [
+      {
+        "id": "ml-adaptive-learning",
+        "imageIconUrl": "images/portfolio/project-linebot-1.png",
+        "href": "https://github.com/your-username/iol-2025-ml-system",
+        "locales": {
+          "en": {
+            "title": "Machine Learning Adaptive System",
+            "description": "Advanced ML pipeline using TensorFlow and PyTorch for personalized learning. Features real-time difficulty adjustment, cognitive load assessment, and automated problem generation through NLP. Published research shows 34% improvement in learning efficiency."
+          },
+          "zh": {
+            "title": "機器學習適應性系統",
+            "description": "使用 TensorFlow 和 PyTorch 的先進機器學習管道用於個人化學習。具備即時難度調整、認知負荷評估和透過自然語言處理的自動題目生成功能。已發表研究顯示學習效率提升34%。"
+          }
+        }
+      },
+      {
+        "id": "computational-linguistics-toolkit",
+        "imageIconUrl": "images/portfolio/project-linebot-2.png", 
+        "href": "https://arxiv.org/abs/2024.iol.computational.linguistics",
+        "locales": {
+          "en": {
+            "title": "Computational Linguistics Toolkit",
+            "description": "Integrated phonetic analysis algorithms, morphological parsers, and syntactic tree generators. Implements state-of-the-art NLP models for cross-linguistic pattern recognition with IPA transcription and automatic phoneme segmentation. Research contributions accepted at ACL 2024."
+          },
+          "zh": {
+            "title": "計算語言學工具包",
+            "description": "整合語音分析演算法、詞法解析器和句法樹生成器。實現最先進的自然語言處理模型用於跨語言模式識別，具備國際音標轉錄和自動音素分割。研究貢獻被 ACL 2024 接受。"
+          }
+        }
+      },
+      {
+        "id": "cross-platform-architecture",
+        "imageIconUrl": "images/portfolio/project-logo-1.png",
+        "href": "https://github.com/your-username/iol-2025-architecture",
+        "locales": {
+          "en": {
+            "title": "Cross-Platform Architecture",
+            "description": "Built with React Native 0.72, TypeScript, and Redux Toolkit. Backend services in Node.js with GraphQL API and PostgreSQL database. CI/CD pipeline using GitHub Actions with automated testing. Supports real-time collaboration and offline functionality with optimized SQLite performance."
+          },
+          "zh": {
+            "title": "跨平台架構",
+            "description": "使用 React Native 0.72、TypeScript 和 Redux Toolkit 構建。後端服務使用 Node.js 配備 GraphQL API 和 PostgreSQL 資料庫。使用 GitHub Actions 的 CI/CD 管道進行自動化測試。支援即時協作和離線功能，並具備優化的 SQLite 性能。"
+          }
+        }
+      },
+      {
+        "id": "educational-impact-research",
+        "imageIconUrl": "images/portfolio/project-logo-2.png",
+        "href": "https://doi.org/10.1145/iol2025.educational.impact",
+        "locales": {
+          "en": {
+            "title": "Educational Impact Research",
+            "description": "Deployed across 15+ countries with 10,000+ active users. Controlled studies demonstrate significant improvements in linguistics learning outcomes. Performance benchmarks: <2s cold start time, 60fps UI rendering. All core libraries and educational modules open-sourced under MIT license."
+          },
+          "zh": {
+            "title": "教育影響研究",
+            "description": "在15個以上國家部署，擁有10,000以上活躍用戶。對照研究證明語言學學習成果顯著改善。性能基準：冷啟動時間 <2秒，UI 渲染 60fps。所有核心函式庫和教育模組在 MIT 許可證下開源。"
+          }
+        }
+      }
+    ],
+
+    "app-downloads": [
+      {
+        "id": "github-repository",
+        "imageIconUrl": "images/portfolio/project-logo-3.png",
+        "href": "https://github.com/your-username/iol-2025-app",
+        "locales": {
+          "en": {
+            "title": "Open Source Repository",
+            "description": "Complete source code available on GitHub with comprehensive documentation, API references, and contribution guidelines. Features automated testing, continuous integration, and detailed technical architecture documentation."
+          },
+          "zh": {
+            "title": "開源程式碼庫",
+            "description": "GitHub 上提供完整原始碼，包含綜合文件、API 參考和貢獻指南。具備自動化測試、持續整合和詳細的技術架構文件。"
+          }
+        }
+      },
+      {
+        "id": "research-publications",
+        "imageIconUrl": "images/portfolio/project-logo-4.png",
+        "href": "https://scholar.google.com/citations?user=your-user-id",
+        "locales": {
+          "en": {
+            "title": "Research Publications",
+            "description": "Published research papers on computational linguistics applications, machine learning in education, and mobile app architecture. Available through ACL Anthology, IEEE Xplore, and arXiv preprint server."
+          },
+          "zh": {
+            "title": "研究發表",
+            "description": "已發表關於計算語言學應用、教育機器學習和移動應用程式架構的研究論文。可透過 ACL Anthology、IEEE Xplore 和 arXiv 預印本伺服器取得。"
+          }
+        }
+      },
+      {
+        "id": "technical-documentation",
+        "imageIconUrl": "images/portfolio/project-logo-5.png",
+        "href": "https://iol2025-docs.netlify.app",
+        "locales": {
+          "en": {
+            "title": "Technical Documentation",
+            "description": "Comprehensive technical documentation including API references, development guides, architectural decisions, and deployment instructions. Features interactive examples and code snippets for developers and researchers."
+          },
+          "zh": {
+            "title": "技術文件",
+            "description": "綜合技術文件包含 API 參考、開發指南、架構決策和部署說明。為開發者和研究人員提供互動式範例和程式碼片段。"
+          }
+        }
+      }
+    ]
+  }
+}
