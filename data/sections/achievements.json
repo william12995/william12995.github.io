@@ -151,10 +151,11 @@
                     },
                     "zh": {
                         "title": "深度學習基礎課程證書（NVIDIA DLI）",
-                        "description": "由 NVIDIA 深度學習學院（DLI）頒發，林致涵完成《Fundamentals of Deep Learning》課程並展現深度學習的基礎能力。"
+                        "description": "由 NVIDIA 深度學習學院（DLI）頒發，完成《Fundamentals of Deep Learning》課程並展現深度學習的基礎能力。"
                     }
                 }
             }
         ]
     }
+
 }
